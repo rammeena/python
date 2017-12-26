@@ -1,0 +1,7 @@
+from notebook import Note, NoteBook
+n = NoteBook()
+n.create_note('List of Movies to Watch', 'Note1 Movies')
+n.create_note('List of Books to Read', 'Note2 books reading')
+n.create_note('Hello World')
+n.create_note('Hello Again','Hello hello')
+
